@@ -1,5 +1,6 @@
 ### Hi there 👋
-![image](https://github-readme-stats.vercel.app/api?username=fynnkunz&theme=dark)
+
+![image](https://github-readme-stats.vercel.app/api?username=fjornlabs&theme=dark)
 <!--
 **fynnkunz/fynnkunz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
